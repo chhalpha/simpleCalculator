@@ -2,14 +2,14 @@
 
 SimpleCalculator
 
-no GUI its console based input and output
+This is a simple Calculator Maven Project with Java 8+
+
+input and output are on command line ( no GUI )
 
 supported operations are + - * / and () 
 
 e.g. (2.3-1,3)/-5
 
-implementation with Java 8
-Maven Project
-optional persistance of knowledgebase to free PostgresSQL Database (max 20MB)
+optional persistance of knowledgebase to free PostgresSQL Database (max 20MB) just for testing purposes
 
-including JUnit Test
+also included are some simple JUnit Tests
